@@ -1,0 +1,43 @@
+name: Auto Mbox
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcurl4-openssl-dev nlohmann-json3-dev g++
+
+      - name: Compile C++ Code
+        run: |
+          g++ main.cpp -o fetcher -lcurl
+
+      - name: Run Fetcher
+        env:
+          API_URL: ${{ secrets.API_URL }}
+        run: |
+          ./fetcher
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add matches.json replays.json highlights.json matches.m3u replays.m3u highlights.m3u
+          
+          # Only commit if there are actual changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update playlists and json files"
+            git push
+          fi
