@@ -30,5 +30,37 @@
                 "title": "Channel 3"
             }
         ]
+    },
+    {
+        "match": "Spain vs Austria",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/kbs.php?id=965830410&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/kbs.php?id=elta9&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
     }
 ]
