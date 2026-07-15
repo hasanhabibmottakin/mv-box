@@ -1,13 +1,13 @@
 [
     {
-        "match": "Larne vs Tre Fiori",
+        "match": "England vs Argentina",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/a204d093-6e6d-4ecb-8c5e-3b973e84b01c.m3u8",
+                "path": "http://play.sportsteam368.com/play/elta/?id=elta9&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen.php?id=06ead150337e6a5bb39ff81f492e0a74&id2=",
+                "path": "http://play.sportsteam368.com/play/wlive.php?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao.php?id=45565211&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=966176027&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
