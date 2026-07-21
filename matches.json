@@ -1,13 +1,13 @@
 [
     {
-        "match": "Spain vs Argentina",
+        "match": "Larne vs FK Crvena Zvezda",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=966281957&id2=",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/0277e1b8-5d20-402f-9107-83c710b2575c.m3u8",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/elta/?id=elta10&id2=",
+                "path": "http://play.sportsteam368.com/play/wen/?id=0ab9717b1ca08ee2d186dae29ffb6ff2&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,39 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=7d518b5cb460f7d0c1552b55cafd590d&id2=",
+                "path": "http://play.sportsteam368.com/play/pao/?id=45861191&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Vikingur Reykjavik vs Hapoel Beer Sheva",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=45861151&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/27e65a58-7a4c-4431-9a6d-392b6050d0a0.m3u8",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=65dda7e17ef298876fb917c725e90a2f&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
