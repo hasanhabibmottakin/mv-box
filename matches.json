@@ -1,1 +1,66 @@
-[]
+[
+    {
+        "match": "le FC Twente vs Ferencvaros",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=2b693eeb408b40cdc1f830989dc1b107&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://video10.letaocm.top/live/sd-1-4589354.m3u8?txSecret=49212c13698f54b2a74616db74c4fac1&txTime=1784828558",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=45893541&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Besiktas vs FC Midtjylland",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=a3a67dcc427b93ab09efdb4fb18358a7&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=45564831&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://video10.letaocm.top/live/sd-1-4556483.m3u8?txSecret=c68346e27d18a8aa8366139cbd6dcb48&txTime=1784828482",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    }
+]
