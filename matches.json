@@ -1,1 +1,98 @@
-[]
+[
+    {
+        "match": "Hapoel Beer Sheva vs Vikingur Reykjavik",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/31b90801-8ad8-47cf-9783-0899186a64f8.m3u8",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=42485c72f365e40de62daaf5a4c89d1c&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=45861141&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "FK Crvena Zvezda vs Larne",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=45861181&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/48d250e7-fdee-4118-8b3a-287c44329342.m3u8",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=d87a935190e4de8773ef95e55e166bf2&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Slovan Bratislava vs FC Iberia 1999",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=45861091&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/993aa120-6b89-49b6-a12f-a9116f9d8867.m3u8",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=ae6b1381c5602a1e857b5683cb62e193&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    }
+]
