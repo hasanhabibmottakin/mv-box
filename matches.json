@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "match": "فنربخشة vs شتورم غراتس",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=8502a40ed6f322b550b7d53b120c75f3&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/ba3fdedb-c58c-4b69-b11a-da739f91abbe.m3u8",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=46022691&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    }
+]
