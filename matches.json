@@ -1,69 +1,5 @@
 [
     {
-        "match": "FK Crvena Zvezda vs Hapoel Beer Sheva",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/048d7ee1-0343-4b94-89d2-b36e9184d62a.m3u8",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=7e59085769c05d211d9ec7bb2f92fbee&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46022831&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Sturm Graz vs Fenerbahce",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46022821&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=8771e21a3a21a07bfffcb662d230b30d&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/df25fd7d-529f-4b0b-8692-72d4f0f209ca.m3u8",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "Lyon vs Sparta Prague",
         "sources": [
             {
@@ -71,7 +7,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=a7306948f1baf4051bd08e0d87495a4b&id2=",
+                "path": "http://play.sportsteam368.com/play/pao/?id=46022871&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -80,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46022871&id2=",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/fd10546a-c666-4e5e-9b31-ff8e08da26d4.m3u8",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -89,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/fd10546a-c666-4e5e-9b31-ff8e08da26d4.m3u8",
+                "path": "http://play.sportsteam368.com/play/wen/?id=a7306948f1baf4051bd08e0d87495a4b&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
