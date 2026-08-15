@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "match": "Deportivo Alaves vs Getafe",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=0e478dc80710f48596b0938b3fdd7a34&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wen/?id=eea105c184db9f3c62ee05b2ac37b446&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=966725125&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    }
+]
