@@ -1,13 +1,13 @@
 [
     {
-        "match": "Dinamo Zagreb vs Viking",
+        "match": "Fenerbahce vs Lyon",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46088361&id2=",
+                "path": "http://play.sportsteam368.com/play/wen/?id=87662ff544fef90717846dbb9bd80683&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/89e98782-ef7a-472f-8260-3daf668d2083.m3u8",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/3a83514b-eac8-4d21-8ede-262c1ab0d44e.m3u8",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,39 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=48bff689ae30341ca8a0cd70495097e6&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Levski Sofia vs AEK Athens",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=287c24ea3a87ad76c89a6bf603a939ea&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46088341&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/4fdbd8c0-c268-49e8-bb9f-9ca182841f5e.m3u8",
+                "path": "http://play.sportsteam368.com/play/pao/?id=46088421&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
