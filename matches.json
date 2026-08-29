@@ -1,13 +1,13 @@
 [
     {
-        "match": "Coventry City vs Hull City",
+        "match": "Lorient vs Troyes",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=966998769&id2=",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=f5b1f4b7d2929d302fffa131ab2a1a0e&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=45584901&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=966999598&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,156 +25,14 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=6839893348d85820b72920b1bc854759&id2=",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu2.m3u8",
                 "stat": null,
                 "title": "Channel 3"
             }
         ]
     },
     {
-        "match": "Levante vs Real Betis",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=966998852&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-levante-vs-real-betis/1",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=f97de90c3de7b8082a9d7c6a79b5e676&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Strasbourg vs Lens",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=966999546&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=bdcdb6b79f8cf4e23e6d34cdcc0ebd04&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-strasbourg-vs-lens/1",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Monza vs Udinese",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=45491601&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=967027710&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu3.m3u8",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Fiorentina vs Frosinone",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fhello.ooo0ooo.top%2Flive%2F4549140.m3u8",
-                "stat": null,
-                "title": "Channel 1"
-            }
-        ]
-    },
-    {
-        "match": "Sassuolo vs Torino",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu1.m3u8",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-sassuolo-vs-torino/1",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=967027186&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Borussia Dortmund vs Hamburger SV",
+        "match": "Sevilla vs Atletico Madrid",
         "sources": [
             {
                 "cover": null,
@@ -190,7 +48,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu5.m3u8",
+                "path": "https://embed.st/embed/admin/ppv-sevilla-vs-atl-tico-madrid/1",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -199,39 +57,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-borussia-dortmund-vs-hamburg-sv/1",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Tottenham Hotspur vs Newcastle United",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-newcastle-united/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu4.m3u8",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-newcastle-united/3",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu6.m3u8",
                 "stat": null,
                 "title": "Channel 3"
             }
