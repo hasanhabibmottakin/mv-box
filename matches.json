@@ -1,83 +1,5 @@
 [
     {
-        "match": "Liverpool vs Atletico Madrid",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-liverpool-vs-atl-tico-madrid/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/golf/1037/2",
-                "stat": null,
-                "title": "Channel 2"
-            }
-        ]
-    },
-    {
-        "match": "Napoli vs Arsenal",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-napoli-vs-arsenal/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/golf/1040/2",
-                "stat": null,
-                "title": "Channel 2"
-            }
-        ]
-    },
-    {
-        "match": "Sporting CP vs Galatasaray",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=331c2d62e93d2a1d1e354a257a42323e&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46285091&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=95a872df47e10f1513a90720cc5a92e8&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "Paris Saint-Germain vs Slovan Bratislava",
         "sources": [
             {
@@ -85,7 +7,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=d6bcc479f691a2edd7f14f34db0af717&id2=",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -103,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=d6bcc479f691a2edd7f14f34db0af717&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
