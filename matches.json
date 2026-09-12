@@ -1,13 +1,13 @@
 [
     {
-        "match": "Sevilla vs Valencia",
+        "match": "Mainz 05 vs Eintracht Frankfurt",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00586184&id2=",
+                "path": "http://play.sportsteam368.com/play/wen/?id=593a972a146325e8dfef0ecd4d762abe&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-sevilla-vs-valencia/3",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588205&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,359 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-sevilla-vs-valencia/1",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=95a872df47e10f1513a90720cc5a92e8&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Borussia Dortmund vs Paderborn",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-borussia-dortmund-vs-sc-paderborn-07/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588209&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=d6bcc479f691a2edd7f14f34db0af717&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Hoffenheim vs VfB Stuttgart",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-tsg-hoffenheim-vs-vf-b-stuttgart/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588208&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=797d148d5ed5e1f03a9fd06a962f6d1a&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Augsburg vs Bayer Leverkusen",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-bayer-leverkusen/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588206&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=819c387dac2a7f04721ade0832979b93&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Crystal Palace vs Ipswich Town",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1141/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-crystal-palace-vs-ipswich-town/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584248&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Aston Villa vs Nottingham Forest",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1142/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584251&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-aston-villa-vs-nottingham-forest/1",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Chelsea vs Hull City",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-chelsea-vs-hull-city/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1140/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584250&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Bournemouth vs Brentford",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584252&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1138/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-afc-bournemouth-vs-brentford/1",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Liverpool vs Fulham",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1139/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-liverpool-vs-fulham/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584246&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Osasuna vs Espanyol",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-osasuna-vs-espanyol/3",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-osasuna-vs-espanyol/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu1.m3u8",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Strasbourg vs AS Monaco",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://spqncdnct.inter.71edge.com/tslive/l1/c74_ssports_20260906_dtt1vp4c_720p_chst1_ts_t4/_g0r-9cChJPg6ed8E7R6Aha_BxFwDFhETxJQduYhP3mAlMu29-E1IyA0pKdm05vpXw1QUaYEUQGx2qx4ntUWR848kTDSgh6GFgbd7iUHcrzsDPekWMgUgmGw44i5R2jDm6iCFBKl44jzN5GcACt_V37WO3tQNVx_hqz9PO6V29KE-o1boBDqDXSPqxDmiTmD0QbgMWMhayjULjMLY6PeU5BHyXmFgFyjrhmVJTMk64hQ9E4aiuY2dV7h_aFxrE4rLL3H8vkROWcFUDB5xfefrw/103e8ad09e867b7f44ce7da9bb7a8a2cc/c74_ssports_20260906_dtt1vp4c_720p_chst1_ts_t4.m3u8?key=05f8cb4fc1bd3cb1e1588fe1440341250&dis_t=1789041449&uuid=0e761496-1a08b2e193b-45f&qdpv=3&qd_bid=4&qd_sft=0&mss=1&pv=0.1&cpt=0&uid=8b1ku34uqz6&random=1789041449",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-strasbourg-vs-as-monaco/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu2.m3u8",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Lazio vs AC Milan",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-lazio-vs-ac-milan/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-lazio-vs-ac-milan/3",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu3.m3u8",
                 "stat": null,
                 "title": "Channel 3"
             }
