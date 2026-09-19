@@ -1,154 +1,90 @@
 [
     {
-        "match": "Brentford vs Chelsea",
+        "match": "Eintracht Frankfurt vs Freiburg",
         "sources": [
             {
                 "cover": {
-                    "id": "6725800100020865496",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/1815737ce3aa644049b13f7564ecd3a3.jpg"
+                    "id": "2342493641798737464",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/acf180ad4d55899c7b722eb9b6c7dc4f.jpg"
                 },
-                "createTime": "1789768489000",
-                "duration": "303",
-                "id": "6644735306728104760",
-                "path": "https://lacdn.aoneroom.com/highlight/2026/09/18/5633d3f06028d573c4cec0df64aa1777.mp4?Expires=1791024266&Signature=3PE1Sb1g7OwFzngnK-Loj8BZZojHrkgohPWwAYTnidvYJ3nICf-JQgyMFbWAIr~~a2vg2r-7iYG3ZomMVB5ZOtqG3IUFB9oPCqsOiXf1r2vcsyjVivNSy0HwBzd7cfuOoGM3i9-79wgwTpWn1JBVIOXzkdBjinvUVPr3cTaT6kghRy~48alPn1YrHdkfD-CjvMN9vZ54LsPzUhLHkAWLu-96DQSOzBg~6JxFRQYu46EuWoJ5ivVs~5SEzsWCqnoaHjyHvbVX~faE7~Y3ZDMnz0Z2vBecXqFsnf5KCmUFbuTP63eCVy2fJeb9O3qV2ETzG68NjvmcuHDoWVkSFq~rlg__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": {
-                    "bizType": "_UnSBizType",
-                    "entityId": "0",
-                    "viewCount": "23"
-                },
-                "title": "Full Match Highlights"
-            },
-            {
-                "cover": {
-                    "id": "125726467597693104",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/6f8ab3ca3c32ac7b69424a3d6564fedc.jpg"
-                },
-                "createTime": "1789761303000",
-                "duration": "32",
-                "id": "6232607562312085104",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/24f493f26c7242c3cce9f42c1b0d4bd4.mp4?Expires=1791024266&Signature=ac3KNSlLTI1okuXHbgGMg5FrCjSTIsnwmgh7dBpp0W-ia1WQ6OPIplGgDhJt~oZWMbzlNYqcuS7B9cdhhQj~tBW9J5N-OBMQHBtE5Q-7iAX3ogrZMjN6ewKNuaM~ObOmnPpZKBsJcHXOanCPHHgV88fAiQAPS1jem~0Mv22zFuai6iGo3yKNZxMs7h88tfVJQaujP3RpLVzoc2CrorIWG02QhLVTXastvxVJvfwxVhzS9u9rkbfvvi3pp2sXkgYrAzp3FMSPhUvL7lkiRDYBXNoa1ZU3N85u00iqgKFq-OPZP9ysC7xhyW5P0Hx40wpSq5Wx1sJ~mUKvtztVMRuzew__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1789747791000",
+                "duration": "37",
+                "id": "7224395637868359280",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/37f12b2fc407529b0057cfeee21ad4dc.mp4?Expires=1791042304&Signature=RLQiUwSzoRAJrDmGd0NvuduCR18WQ6vuXrLuAQdJWY0EQg50wTd8fLKaa8ue6UgP6z8XPjxF6bhtV3dPYyTTQP~bQm2P3c04mihwFJshq8DGbT2e6RKhxb7oGN9eY278fPFH9BrD~yjQ8kYPysXfDbK0bCYzGHOrLOA1WXro-lnneBXh9r7oB0KprRmU5mz4qGq05q39XEAnjzPl69VRkn8Gic2Ox2p9ivdB~4PRDzAu-ZbC8vXUKNIQwetaEun59gMw3XlM82Jy7PpgoYjr1NbaTrHhD9pMetDC0fQePW4dUMLj66w8uVU9fSZEh8ecJvLQqfjCQ3zSCPMRPNQdyA__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "Welbeck's clever pass sets up Neto, whose left-footed strike is saved by Kelleher"
+                "title": "Prost! Bundesliga Oktoberfest Showdown Set to Kick Off"
             },
             {
                 "cover": {
-                    "id": "7128643568251858496",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/5c7204e13c5e118757839351fb94a636.jpg"
+                    "id": "8286545585654619704",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/09/19/aea243d39f29469a082ca388ae7130c0.jpg"
                 },
-                "createTime": "1789764900000",
-                "duration": "33",
-                "id": "6421578426754687800",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/e8a61183ae0457ae52ca9203376ff912.mp4?Expires=1791024266&Signature=AaSqbhA223qRcnhggyWAwulNjolHttcOsf7phxJTF1EZ0ImlMc~7WOFBpiFJU8dhCgiXgztcyykeoz2dPmHLuI4pqHL1Tz7sT5Q0HKQ7i-VLiddSc8EHxx376FyLIVFASTSrYuI-Jlp1y7KpxdaAeMwiATFzMVMKwLQPo-MRMcWCZt5EJpt5BlQylzwLJFxxkOvaf22~qNHmsTA3LMQkE6UVH9pPMyfnTNV7HdxdyaJuyFSFbNNCSPRbGZ~FfzOXSRXJ~QYSD9LfyPljc8lwbfrT-2nzVJe3wj7ZSb1gFpaPJo9c0jqb5C6bczZq0D1-Quo0V6pbG61-e1xWPF00nA__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "Chavarria delivers a cross from the left, Rodgers follows up with a shot that's blocked"
-            },
-            {
-                "cover": {
-                    "id": "6269300464354221624",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/79d6e893adb56a993ee92679a64911fa.jpg"
-                },
-                "createTime": "1789764912000",
-                "duration": "60",
-                "id": "2125988807173366584",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/61b58720e7cb79fc0786423668cb01b3.mp4?Expires=1791024266&Signature=2DyBKgNraxw2xSDHyksojn~7dBU2UWqssvemq-kiR3n5QYxg28PF8qFzmnQ-vRs~hVSJYPPnI2baI8NRWu-d-erxSTrjFvGKAtyuTLPk4djRCPZAEGjWgj467p3ZcanbyD6Ja5GwsXO7EJj28gLAxKsc0es2K9MdBdCsbanaKrivzRjAI9Zbr60fudNKEguqxFI7MjStFDBQmrZw8fGTpWFPj0QhE7RM4TLbAU-RhxrjAxkUrfqKxbgRrrmCRmobuFrzH1ARMH9kmzcpI1ubTWnVmBHZnI8KsgUQHDS4r3l7lVvDqMWLayXaldCkPFQI~dIW~eALYDGhv7G8jQkyww__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "Extreme reach! Martinez leaps to save Jayden Anthony's header"
-            },
-            {
-                "cover": {
-                    "id": "4336059955561262656",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/859643aa3164b6e8deea443ce291d212.jpg"
-                },
-                "createTime": "1789765797000",
-                "duration": "84",
-                "id": "4372088752580223800",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/82c995be99147bc0191a6f26cccb8ccc.mp4?Expires=1791024266&Signature=y-Uz8oxnn0cR3pUENwvpwASiQQgwUKc1LJGdIn4lI6pbxVY~BBQme2ouyJ0DdDAqP1ttG-YooBstOBLljjDLRx-FvC1-0Z5AsnyHyrtEfrqBwWZTsdWLB5V91LA8l2rHU3R-tN05Y4O4oCwGkdAAAaf09lWIPT19kxyinRddV0Ypw6helqoOLyScnYMoB1HZs4rhVk1DVYOG7wsa9gCemEZwCJgdBmF1lZ1P3h72rtNxqvG0iMjgsYpuEdWSOpyuCDbKSe8wpO5HVUpkJnFvfwg2Fm1jbcT1sml0KGZuxM0smYl63RXmUeSrqTEQMtWxHIvFIXfKkq34Vev7Vet8zA__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "Alley-oop! Schuster heads it across, Jaden Anthony taps it in easily"
-            },
-            {
-                "cover": {
-                    "id": "5430434665012289080",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/ebfe99855a00a6d74e1282d1c82ad02d.jpg"
-                },
-                "createTime": "1789765805000",
-                "duration": "20",
-                "id": "2151814136286569272",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/798745a408fa39bd369e5c4f0db1529d.mp4?Expires=1791024266&Signature=oB-UM5bEE9ymeLZsmNgFP~NVpUDHU4K3ujRVU5f5K~VOTGZ5Hq2NZPtER9z-5eoQUa61c4EkoQ4idu37-PvVVF-dXaTijhQYth4j-Q-3E72EpGs~KNwhWYL7jkbx4AGbbTnAYxDxjx1o3OMB~wfxnJMduqeTKlcVBSlw~s8z0fm8Q6Ry-je-HuugedMnNQkCZzUE75ZCgTz1kmtvJA0mjPcFDfRYJ7aqqpvFIIEr1HM9NqlxhN~3uH320jqTgciCcFmSNM7kg~q9x8W5CPYkwemsHW4RfvQmL6ABZpzhiPgDSWQVaUnrK~~nsI0flDzsvV1V96hO7XgSo67~exNdrQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Highlights] Nearly equalized! Colwill also flicks on a header, teammate fails to reach in time"
-            },
-            {
-                "cover": {
-                    "id": "7719072516274637272",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/19b6ca378b84b32cad47ee5de20c185f.jpg"
-                },
-                "createTime": "1789766704000",
-                "duration": "89",
-                "id": "5449258304079815480",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/9bb465f6dbaec9a7629a7c6432168d28.mp4?Expires=1791024266&Signature=Yj3dJw1H9UU1msUTuMAg-JsFpqn5J2qocQQ6xN83i1cTfN7i08GoCpQN2gE6EKfP6CudKwGY92eIn64dzSv-RVYVOKjwSL2tq40MnSJXiTXE5DaNQDYtBc-wOpMKdkyANyRDrstUcvmi7IE83XCXkklT5wBj7MXUrtYb8dwZuCnwn4koK94jMMRhbFySXMupyDhgm97BPEbk5D0DPKvCc9efT7LfclXp~Kn9zuKMeYt6NyywEQIA59M7NHAlQ~~Kh2WNQhx05wPAUQzVYCoAFKPGyYhexHcXL0Oq8zFYkO9BqLMZ0bp~klhGl-Ai2E8UMYJdDLwTMZFrtAi2TRy3rw__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Goal] Shad's one-on-one saved by Martinez's diving stop, Thiago follows up to score"
-            },
-            {
-                "cover": {
-                    "id": "7944252497643164000",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/c29bde8fac5e6f6cb74de67eea4452b4.jpg"
-                },
-                "createTime": "1789766709000",
-                "duration": "338",
-                "id": "1188853056587326264",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/75f1bcacab16017f79f15ebfbf720119.mp4?Expires=1791024266&Signature=21FiLaK7LTni~Emj8OCwHCnshVDTOwN-IUKUT9NVzwix7Y~y5FGbpytpXthkFgqWn6BE8dCcpHFQcN~J4bD8OQczDNAyZpmuMF~Jm2dslNB8M8msD4lmifn3Ox6s14pqTAwhtpncZBdaw~Vg4Asor1uQck-Udzr7WQU8-nUKj4aJqOjvZ2aW8anFozkv~sGE0~3ZpA4YK26ZzuTQ3eKXXiVxaWAR2e3DTmlf4NMQvkWrxmtoMHqW9GGuujxbXLJgqrFwEwb0pynvDRYRBkd-2QoUJ1aDBj916zxhRLEB5Kv76-zm2ckbG4hwKJ39rp42ZPawmMlrdN8E3E2-SWFa9g__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[AI Quick Look] 2026/2027 Premier League Round 5: Brentford vs Chelsea"
-            },
-            {
-                "cover": {
-                    "id": "4553041978233085496",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/3ce46d17b3e79cfe718126514ac9eab0.jpg"
-                },
-                "createTime": "1789766699000",
-                "duration": "38",
-                "id": "8047835289072591672",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/3c5f35c2b7707edb65bb143a81c69caa.mp4?Expires=1791024266&Signature=rgVaOFPbRtJD6ZmZbjo~cHMT0gGT2FvkDyit1tDBrYmuQhMNNfd6nXlM90KV6uf-sVUzErrXYAmi~pbqEOgnethQqQY5GyNuppOF8d0jF9lYWJiLAtSIN2T9X4O8C798g4fnrsJK7LMcfq9tOkp-HIpbfym9Q9ueRPiNGaNaEdaVHD6qYi7MlhoLII122~kDhUIL8Qsy9VGHw4i8tH7VaHAxQiP4a0i9x8zGr9z5HtUqh-l~GOHslJB8uWTXfp3wdCq5RKy4NqeqL9cdnModa7vrd9CVzTyeD1c6dE6y~i89W-M4LkRWhGOnQNGX3oqfQzVi3hpOQTmpXgwNYdDH5Q__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "Can there be a miracle! Trailing by two goals, Jaouhari and Estevão come off the bench"
-            },
-            {
-                "cover": {
-                    "id": "112492745645871456",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/9517b0adc59e45897f0e5f98b685d9e5.jpg"
-                },
-                "createTime": "1789766694000",
-                "duration": "27",
-                "id": "4201761207298190960",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/373768fc411a0f9e74670a3e436f20dd.mp4?Expires=1791024266&Signature=V13-I~22XE0qwobqTettALGPxvb6JmzDvP71HCTfdgXn1pg2T5dv8gez0-JHiPcTSg5dSqFJN1gDycFEGyyd9U15J7zGZVWz8Wmu7BRMfkJYkSY4QLKki7sts-aMR61VaWHTXzRKHW3oGIhD8sdIPoesNnGmR3vZXWey7tyf0VnzIapn5qjU3oYSngLNLdGgNW4nIuDcabRRzGA4HyzTgfd0L7ybt9kzRwUJXGmk0~6fTXm8bLUsWWzcjimAZ424jIqZ9rMTy0lCD-nV8xtm2dcMOqk12dJ0DQm0VS9kmEamgpy9-N890ANEDNWbuNbk9NhBLzZs1-32cQv94ZRLDg__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Highlights] Palmer forces his way past defenders with a nudge, turns and shoots but lacks power"
-            },
-            {
-                "cover": {
-                    "id": "3735638645865340472",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/79ac4c84a913da351940bd5d7bd73891.jpg"
-                },
-                "createTime": "1789766690000",
-                "duration": "75",
-                "id": "7275467952978551608",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/91fbaf7300e3efd0f96ded5fea1f4a5d.mp4?Expires=1791024266&Signature=vxWMIZEQX~4YtwubXE6vdU25z-38mXRzHXuqnphkPjLC4arI2LNSxAmufzO0Biz4NhGtSaMgajF1ngjgwUgnQMlMoKAzvLGi2ukY57U3XjMotZ0lWXBXjSNcPmhnas6pYFxaNbvFAHKJuDodOs2wNd6e8QqEXr6Y0uMnZLIDhOdcOQxntsHktkrW78i~DF9egdMwHLiUWACrzG0cb9t5wfcPMfNP6VFY3QgqgiN0jq21Bed9kj1h7HysmHJjNh9q5z3bqi5lQQuS9u5R~L5uKaBHqx2wdZ8J9-3qUIHeLJrXbrUgkBfBMqTYZzWwGknIJlWZSg3FeOLTUduiZUQYgw__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Highlights] Barco goes down in the box after a challenge, referee waves play on"
-            },
-            {
-                "cover": {
-                    "id": "8286737175555759672",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/09/18/bd8dbbd16aa47d35f370d3648b357217.jpg"
-                },
-                "createTime": "1789766714000",
+                "createTime": "1789827008000",
                 "duration": "77",
-                "id": "6016922963361030968",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/09/18/d7524efca70874e27e4da7ca14e1814f.mp4?Expires=1791024266&Signature=3zCl-vB2QLKcjKGG2rmLoPZkJmncm0wsmkcjBD7o-S~CwRB6lcu7VqqjJA9Z0vtpJHROgYdOhHYvBR3w-CMWS-kqh~JOBABsZDkCYDXvrLIHLBv81GsFRlkCDZ8KXcwaKO37hUYf1ewkNu1BzmXHX8gdARN1KiCDe1SqwEqp2Zx9ffsr8zQKzbF5hHBGPzgAI7d8bxadRGD-CXkIqcMzjjzV4gvGs-Uuw6~EUE4eYUC7Q3NedcQ99yK~skVV5b7welckjlga8rKRHTyoRyW77-Q~hTwZmgoEgvuMrpNkRdTPobz-hn05bKBWHNwzLBdt4Zi0cadXtERO3KMII0-uIA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "id": "5350409734841590584",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/09/19/cd5cb57f76ad5541a48a7b9a10112d6e.mp4?Expires=1791042304&Signature=XE7f4d9m~Ztt0bz~XC5wd5ttrfYIMiZSGPA-yCDoeXdoTdXUP3i5HKoay1xxYgDEfKB2~GMk4n3yjfmpyyRylP1dCKZyqFajL9DY7eqGyLNLHRXQma-77mFuuBmAOa-Co8THHHPiw8BMsVJ2kM~WN3r5px6XvpXCgIqUjiW3fdyuzhprk57WpgesTHCozHfQVJiHlp7EmyiYXxhZSzMnNRS3hcNzSaK0Pa2nKFKblILYbi6Q0ry5wvce1OBPKELPnZPCo5xEG5~decRFB4thTjcqZDEIERKORZpsxPKnPgeYqH51h0clvteL~6EykxaYix6KC7Pppo~fCS6lisSB1A__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "Clean and crisp! Shad delivers a cross, Fabio Carvalho arrives in time to score"
+                "title": "Fantastic start! Doan Ritsu's unselfish assist, Ebou Noutalib scores easily"
+            },
+            {
+                "cover": {
+                    "id": "3648590035416502800",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/09/19/2e6d0c49a0ae64d3bd9c4c27681b7913.jpg"
+                },
+                "createTime": "1789829717000",
+                "duration": "44",
+                "id": "5143785111703503544",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/09/19/06ed012d9abcddf8523227e455e1dedf.mp4?Expires=1791042304&Signature=xUBVQwMgjH~bqBq0Qsh1V66Tj6SdsiuNpFSguuRSVu0ZQdtoPqXgMp232Lj~EqqNIb6gQke6IxcyKsYzWc3dOmnr7Ni1Y2ByR3HZE3YXjXE7JUamJiuuXXUmdI-OarnO6DuZyvYDXP9iXlhh9foJtK98UKufounVP55zTaEyQi2DiHtbSxkcadQZhjJjJlap5CBvojN3IQtG9eYnfPS-XhvQc42pcQ-hofVjj8HKnOm0c4zwnl0xvA~XXcErtZYI6EqikgyMZaeExBW89LRrz5FcHb7GGj~HgjUa56N87z6a8M-xJT8dXvrPTsZJcrkeQESGYR~0aC2wbp9YUPuLyg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "[Highlights] Sustained pressure! Best cuts inside and takes a shot, which is saved"
+            },
+            {
+                "cover": {
+                    "id": "8528803181625759088",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/09/19/9713e2f9016b45b1a4d46bf36b50497f.jpg"
+                },
+                "createTime": "1789829702000",
+                "duration": "28",
+                "id": "5970758593279410872",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/09/19/65d23aa87db021d453ee62e4e6c6040d.mp4?Expires=1791042304&Signature=XZVF8Yd8owmjtax~yn~AsR86XyPw5ZcKFA-NvPVKofgF95lJO6nb1HK2k5yLaM7cnm-LNwSnuux39TjFQN1HBOECJ1r4bEoDnEk1tDhV1SSUTAacASvJe~0n7dCdiJYdNP~hFM45WVajzs0~L9EaKZ51zLhkVtgo4DYCMuwluVC9BBU4SJHO00Lxv3cx0bp02dtJeTvJ8mt7E2MW~9sBGOu4gjQ7VPe9LhDYzpzzpUxk~PnW36V03Aypq4FW7g1UVuz7af2WbIloSPUFldYy4O-ckl9gKToe3q4DUZ8dqWu8Fi9jkLdfjFyfjN02896oRZgNuKtugEjh2F7VhMFXIg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "[Highlights] Dangerous! Eggestein's diving chip goes wide, teammate's follow-up shot blocked"
+            },
+            {
+                "cover": {
+                    "id": "8240009855520630096",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/09/19/ea5d898d962b69c45213be27a5b5bb99.jpg"
+                },
+                "createTime": "1789829744000",
+                "duration": "80",
+                "id": "7798657092038410936",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/09/19/4d73b9a42a96064c7c9729f872fcbc96.mp4?Expires=1791042304&Signature=jcGqH-ZNBgP7yw7z0oHkroqrc4FBm42M1pdDYKvn6jM9Y6DTMf5JiMEVuPyxVvAEZsS6ECVuyLZm3IM7TIZSwPU5yGIGrkvrJYnvnCAIcHVmB1FFhT8wCbyC1GuulwF2mvHhmtrCXIAt6qUrAdKaRmTN1O23oGXOnwCuKYq2wTIrzRQaCAFUlqnL8ewuNplhlzh41eytz2QwkGppXvbimLaBdNAZ1Z4Ge05cHtt5ZYwOFvtkLW8d~W3KzetedD02ZoIvsPLxzBQdu5xLW2J~XFJ2uWeNwFZXKZ2ADPmOjpyIC5sYAyPLu20YApgo9TBSKfsADRUCunwvn53rpvU7zg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "[Goal] Individual brilliance! Scherhant cuts in from one-on-one and blasts home to pull one back"
+            },
+            {
+                "cover": {
+                    "id": "8909920300091989560",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/09/19/b42597511581ee68af04ef0447dd785f.jpg"
+                },
+                "createTime": "1789829758000",
+                "duration": "76",
+                "id": "2550837626244940472",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/09/19/c89833dc082153f59495b469c4b1d759.mp4?Expires=1791042304&Signature=7v5h3daTl1y1Hgqxu9a8gGOw0LVcfcEBER4id7jPI9Oo0dv7JAqvhvLTz0JtX11DQ1TMmXFCtvQmwe4MU~4SrpKQ1wq96eS7Y2MMb1Qy~4bejuXRAN7Zx2c8aBr-IHbL0EN1LOjWEJN9THwTcAS4Z3Fvt1pnvDR9fzhFmUJW6xMxU~3FlwSmFzMsQRA0lRfd071-fqeJL99-0hwouzp2qkEbt3Lq-EpQUyqqQElDTCxefi3pnX1AxkqaYBN0VhYfeauM8gBobuGBJGDcrf4txXGO5mKDfr2LhUDkIimv6DzjPYKj57yAyhy4IsB9lfcrx9PE8ldgInkmokDe39AfxA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "[Goal] Quick response! Frankfurt's chaotic box scramble, Borre scores from rebound"
+            },
+            {
+                "cover": {
+                    "id": "6802640294761619000",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/09/19/6efb959b99f5879aa42177d54ba8f5b9.jpg"
+                },
+                "createTime": "1789831564000",
+                "duration": "74",
+                "id": "2907026617086144112",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/09/19/6d27100a73907d5b2093e949eaf05ef8.mp4?Expires=1791042304&Signature=X4U1iPAj28RWKfkYZMEnOhAMfWoDlJQd3EV-8X-gC-lzF9Ts6YLTgtPbEZj8W3GmsUUtlwgVXixdf6QP4m84dvVNeNsLGTXusrkrmEvBYyYgPGuKoupq6j1YTDxyoUjApgdCSmC39np8beopHhjM4cr0rJox2J5-2s1d0vn1clOjvkaiyJrhpUrsZOt7EC~aF8UVBNbmwmwaq48N36UrSWRNx8Slw2LZeMT~AWNlRgRYiThma~zv5Yc9t7UZS7-SZpLi-EsqEGIqb83XmkSxwkUyLvVX0GF2HCn0Fakj0k9WcBlVJjA0WbFxI4trQMKIf9kCPEBzhrp8LmkeLy6zyg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "Sensational! Freiburg's cross from the flank met by Yuuto Suzuki's thunderous strike to equalize"
             }
         ]
     }
