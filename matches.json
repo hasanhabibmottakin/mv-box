@@ -1,13 +1,13 @@
 [
     {
-        "match": "Bayer Leverkusen vs RB Leipzig",
+        "match": "Paderborn vs Hoffenheim",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/foxtrot/rb-leipzig-v-bayer-leverkusen-401884788/1",
+                "path": "https://embed.st/embed/foxtrot/tsg-hoffenheim-v-sc-paderborn-07-401884782/1",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/hotel/bayer-leverkusen-vs-rb-leipzig-bundesliga-1789911000/1",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu5.m3u8",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,21 +25,21 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/1",
+                "path": "https://embed.st/embed/admin/ppv-sc-paderborn-07-vs-tsg-hoffenheim/1",
                 "stat": null,
                 "title": "Channel 3"
             }
         ]
     },
     {
-        "match": "Atletico Madrid vs Real Madrid",
+        "match": "AC Milan vs Lecce",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/golf/1485/3",
+                "path": "https://embed.st/embed/admin/ppv-ac-milan-vs-lecce/1",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -48,30 +48,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-atl-tico-madrid-vs-real-madrid/1",
-                "stat": null,
-                "title": "Channel 2"
-            }
-        ]
-    },
-    {
-        "match": "Nice vs Lille",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/hotel/nice-vs-lille-ligue-1-1789917300/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-nice-vs-lille/1",
+                "path": "https://embed.st/embed/foxtrot/lecce-v-ac-milan-401874944/1",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -80,21 +57,21 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584490&id2=",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu6.m3u8",
                 "stat": null,
                 "title": "Channel 3"
             }
         ]
     },
     {
-        "match": "Fulham vs Manchester United",
+        "match": "Marseille vs Paris Saint-Germain",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-fulham-vs-manchester-united/1",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu7.m3u8",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -103,7 +80,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/golf/1484/1",
+                "path": "https://embed.st/embed/hotel/marseille-vs-paris-saint-germain-ligue-1-1789929900/1",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -112,14 +89,14 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/foxtrot/manchester-united-v-fulham-401878777/1",
+                "path": "https://embed.st/embed/admin/ppv-marseille-vs-paris-saint-germain/1",
                 "stat": null,
                 "title": "Channel 3"
             }
         ]
     },
     {
-        "match": "Juventus vs Atalanta",
+        "match": "Valencia vs Real Sociedad",
         "sources": [
             {
                 "cover": null,
@@ -135,7 +112,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-juventus-vs-atalanta/1",
+                "path": "https://embed.st/embed/admin/ppv-valencia-vs-real-sociedad/1",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -144,7 +121,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/foxtrot/atalanta-v-juventus-401874757/1",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu8.m3u8",
                 "stat": null,
                 "title": "Channel 3"
             }
