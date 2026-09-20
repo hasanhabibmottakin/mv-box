@@ -30,5 +30,37 @@
                 "title": "Channel 3"
             }
         ]
+    },
+    {
+        "match": "Fiorentina vs Napoli",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584860&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/hotel/fiorentina-vs-napoli-serie-a-1789900200/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-fiorentina-vs-napoli/1",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
     }
 ]
