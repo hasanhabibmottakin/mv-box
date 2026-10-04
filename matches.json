@@ -1,1 +1,25 @@
-[]
+[
+    {
+        "match": "Toronto Raptors vs Miami Heat",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1811/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-miami-heat-vs-toronto-raptors/1",
+                "stat": null,
+                "title": "Channel 2"
+            }
+        ]
+    }
+]
