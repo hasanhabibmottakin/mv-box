@@ -1,1 +1,25 @@
-[]
+[
+    {
+        "match": "LA Clippers vs Golden State Warriors",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1813/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-golden-state-warriors-vs-la-clippers/1",
+                "stat": null,
+                "title": "Channel 2"
+            }
+        ]
+    }
+]
