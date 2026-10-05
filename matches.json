@@ -1,13 +1,13 @@
 [
     {
-        "match": "LA Clippers vs Golden State Warriors",
+        "match": "Philadelphia 76ers vs New York Knicks",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/golf/1813/1",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu3.m3u8",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,9 +16,82 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-golden-state-warriors-vs-la-clippers/1",
+                "path": "https://embed.st/embed/golf/1816/1",
                 "stat": null,
                 "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-philadelphia-76-ers/1",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Detroit Pistons vs Phoenix Suns",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1815/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-detroit-pistons/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu2.m3u8",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Milwaukee Bucks vs Minnesota Timberwolves",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-milwaukee-bucks/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/1817/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu4.m3u8",
+                "stat": null,
+                "title": "Channel 3"
             }
         ]
     }
