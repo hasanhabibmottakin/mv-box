@@ -1,13 +1,13 @@
 [
     {
-        "match": "LA Lakers vs Sacramento Kings",
+        "match": "Malaga vs Espanyol",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/hotel/sacramento-kings-vs-los-angeles-lakers-nba-1791513000/1",
+                "path": "https://embed.st/embed/hotel/m-laga-vs-espanyol-laliga-ea-sports-1791572400/1",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/golf/2119/1",
+                "path": "https://play.88player.top/m3u8.html?url=https://sphscdnct.inter.71edge.com/tslive/l1/c73_ssports_20260928_zomh15ev_720p_chst1_ts_t4/YfQ7f-5urr1vkNV4gPFbdjUMCAG11iOaG2QeiFLdCpv-kMs5-yjB_Xq93TitwfisFJ9XhOQNFx7u4Di4ti-ps-u_eooOyRqi8weCFfeDHD8PqvI-xP_cyl0xQqzA5f7x9zSDNmqc5slKD9H1BloonHTrDovCmXvyN2E_L_xZVXAHbn7A_G2QGagZW5LOhxRmkhxNDfhcQk982aLro_o1HioBCG4ZPvtFiwJ4qQFLtYaxAvGUzZd4nxkKtn8seglkETD7s20XElxybjSr_gkSqg/1b3988e6d4d86e51a6893b905e5f2da93/c73_ssports_20260928_zomh15ev_720p_chst1_ts_t4.m3u8?key=0befe743841bb90219d88c621297c1ee1&dis_t=1790597640&uuid=0e760c34-1a0e7efb21c-458&qdpv=3&qd_bid=4&qd_sft=0&mss=1&pv=0.1&cpt=0&uid=kk4iov0mf9&random=1790597645",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,39 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-los-angeles-lakers/1",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Dallas Mavericks vs Houston Rockets",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/txf/?id=10012600012&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00590100&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/vl/?id=vl&id2=",
+                "path": "https://embed.st/embed/admin/ppv-m-laga-vs-espanyol/1",
                 "stat": null,
                 "title": "Channel 3"
             }
