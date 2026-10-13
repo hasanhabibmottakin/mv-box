@@ -1,13 +1,13 @@
 [
     {
-        "match": "Washington Wizards vs Les Brooklyn Nets",
+        "match": "Utah Jazz vs San Antonio Spurs",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/hotel/brooklyn-nets-vs-washington-wizards-nba-1791846000/1",
+                "path": "https://embed.st/embed/hotel/san-antonio-spurs-vs-utah-jazz-nba-1791853200/1",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/golf/2193/1",
+                "path": "https://embed.st/embed/golf/2195/1",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,39 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/hotel/brooklyn-nets-vs-washington-wizards-nba-1791846000/2",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "New York Knicks vs Minnesota Timberwolves",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/hotel/minnesota-timberwolves-vs-new-york-knicks-nba-1791847800/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/golf/2194/1",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/txf/?id=10012600043&id2=",
+                "path": "https://embed.st/embed/hotel/san-antonio-spurs-vs-utah-jazz-nba-1791853200/2",
                 "stat": null,
                 "title": "Channel 3"
             }

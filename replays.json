@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "match": "Utah Jazz vs San Antonio Spurs",
+        "sources": [
+            {
+                "cover": {
+                    "id": "7263640794161370640",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/13/1ca5bfca8e9af48fb28d879b3fd76932.jpg"
+                },
+                "createTime": "1791895234000",
+                "duration": "6215",
+                "id": "8087799525970177648",
+                "path": "https://lacdn.aoneroom.com/replay/2026/10/13/8f3a2a5ec5ce2ad874071ba4b856ee66.mp4?Expires=1793109613&Signature=P5i~l9KvLMx~0RZ4-ZrTI-AnAlfP6zEPqFL9bZ4yD-dpjEDKC9CBH-ZkXvAfosJUwCLvRfqIWyRiifgCgqDRWAAAfgrbq5EZTD41FFqHvmJxSMB4bs-0wP8gjhXceHawjYtcE-9G~6UlbmNw05cd50enrC64ARp9X6LJd4KOuOGLO~OXwxgrBdZkphGvu7mAGWGJSYnvm~QC65CSXXguJLHtd6cXjMAP08zUe-etIfAfh1uRMKUzhM9N54-8G7BNRbBgBoiEsnfqCTH5JVi6UdfwZ71p1K1uTad9EiB88RVQg4Cba0pM0xBzn0DNUVV-uIMekwToDXJpkMpNRU7n2A__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "San Antonio Spurs vs Utah Jazz - NBA Preseason - Full Game Replay - October 12, 2026"
+            }
+        ]
+    }
+]
