@@ -1,13 +1,13 @@
 [
     {
-        "match": "les Denver Nuggets vs Chicago Bulls",
+        "match": "Washington Wizards vs Les Brooklyn Nets",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/hotel/chicago-bulls-vs-denver-nuggets-nba-1791766800/1",
+                "path": "https://embed.st/embed/hotel/brooklyn-nets-vs-washington-wizards-nba-1791846000/1",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/golf/2180/1",
+                "path": "https://embed.st/embed/golf/2193/1",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,39 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-chicago-bulls-vs-denver-nuggets/1",
+                "path": "https://embed.st/embed/hotel/brooklyn-nets-vs-washington-wizards-nba-1791846000/2",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "New York Knicks vs Minnesota Timberwolves",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/hotel/minnesota-timberwolves-vs-new-york-knicks-nba-1791847800/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/2194/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/txf/?id=10012600043&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
