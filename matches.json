@@ -1,37 +1,5 @@
 [
     {
-        "match": "San Antonio Spurs vs Phoenix Suns",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/golf/2287/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/hotel/phoenix-suns-vs-san-antonio-spurs-nba-1792022400/1",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-san-antonio-spurs/1",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "LA Clippers vs Denver Nuggets",
         "sources": [
             {
