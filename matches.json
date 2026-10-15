@@ -1,13 +1,13 @@
 [
     {
-        "match": "Aston Villa vs Fenerbahce",
+        "match": "San Antonio Spurs vs Phoenix Suns",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=0e478dc80710f48596b0938b3fdd7a34&id2=",
+                "path": "https://embed.st/embed/golf/2287/1",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46283861&id2=",
+                "path": "https://embed.st/embed/hotel/phoenix-suns-vs-san-antonio-spurs-nba-1792022400/1",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,39 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=a1b2531239217eec330ccd01a7dc898c&id2=",
+                "path": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-san-antonio-spurs/1",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "LA Clippers vs Denver Nuggets",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/hotel/denver-nuggets-vs-la-clippers-nba-1792031400/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/2291/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-denver-nuggets-vs-la-clippers/1",
                 "stat": null,
                 "title": "Channel 3"
             }
