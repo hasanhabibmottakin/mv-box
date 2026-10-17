@@ -1,69 +1,5 @@
 [
     {
-        "match": "Golden State Warriors vs Portland Trail Blazers",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/vxt/?id=10012600019&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/qq10.m3u8",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/62529d65-c8f1-4146-8611-b4bb6dfd0a32.m3u8",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Phoenix Suns vs Utah Jazz",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/31302b57-682e-4a48-be5e-131924b8294d.m3u8",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/qq11.m3u8",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/vxt/?id=10012600062&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "LA Lakers vs Denver Nuggets",
         "sources": [
             {
@@ -71,7 +7,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/vl/?id=vl&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10012600063&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -80,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10012600063&id2=",
+                "path": "http://play.sportsteam368.com/play/vxt/?id=10012600063&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -89,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/vxt/?id=10012600063&id2=",
+                "path": "http://play.sportsteam368.com/play/vl/?id=vl&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
