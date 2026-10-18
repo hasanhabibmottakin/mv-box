@@ -30,5 +30,37 @@
                 "title": "Channel 3"
             }
         ]
+    },
+    {
+        "match": "Udinese vs Lecce",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/hotel/udinese-vs-lecce-serie-a-1792319400/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584833&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-udinese-vs-lecce/1",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
     }
 ]
