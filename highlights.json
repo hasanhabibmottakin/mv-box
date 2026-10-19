@@ -1,210 +1,94 @@
 [
     {
-        "match": "Real Madrid vs Sevilla",
+        "match": "Getafe vs Rayo Vallecano",
         "sources": [
             {
                 "cover": {
-                    "id": "8858180834826897272",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/8dbf793843a75418c479bbbc336bf849.jpg"
+                    "id": "6738119006823633120",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/f22fda05dc4db7e64f3ad286a4f05fa4.jpg"
                 },
-                "createTime": "1792389311000",
-                "duration": "518",
-                "id": "1986532228389661144",
-                "path": "https://lacdn.aoneroom.com/highlight/2026/10/19/f327a0c4576a8f8c79717fe004cd9109.mp4?Expires=1793623813&Signature=VrA7DUXiOICXkK3u1yzy7fippDgGxS9pFxWIQV1KK2e4Rhvu2BXmRglxJxAxFjlZ1yjcrV-94IJHY-LZqT7~HvatFv6wZaVZt4VDIMS5CKFFN-imaaq3f9sGzA64hyYIxjpX~j4jsSqFt8RP-nl5tV7vUJySj68QsuohuKteWLvgD7kEIEEkDum6E5-OQK-Dm3md6orBAa8jq6jRkzu0RD-oUvv87uBklfs0AI1-b3J59zKaUTZ~Qnu1O6h06exbuIuf4FZuflEu-1JU6wdTm-e2dzOFtMpjfUPDMVoTqgnF~8GG8tjSk09tFUgJcS--7MbZKXDS1VL46TTWhChCMQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1792446892000",
+                "duration": "301",
+                "id": "1676073025659101776",
+                "path": "https://lacdn.aoneroom.com/highlight/2026/10/19/502e69c239008126d1df49e75beea06e.mp4?Expires=1793657669&Signature=h66bZglJH07B3kUr93978CRI5FZNjug53AB0~a3D~4vqGtiIZ2oyiYJZDlacbkyRujIoIlGUH9xUIwZzDwCBthZ9DMfwhXykJRGUUTVY0Un5mbjKt45tRMBzRc~zZRghQzaFWTdV7NCgcrlH18ITpqE0CLGFZ9qsHAgpci~bJF~gO7OTsclrWz2aMZksVcVm1SaQandAq6YRMrdUqJPMIAQ9OIRwifcdsm8xB9jfo6LW-Vblhsajf90VySsjqYm9MmYvH1EYEJreERs5FaqPOlYE~KkAreFYd9PXi0GbV2C9GaJYgXiqw4lrNOYxsB1m-0DcI8jbjcJCjMLcUja04w__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": {
                     "bizType": "_UnSBizType",
                     "entityId": "0",
-                    "viewCount": "47"
+                    "viewCount": "1"
                 },
-                "title": "Real Madrid vs Sevilla Full Match and Highlights"
+                "title": "2026-27 La Liga Round 9 Full Highlights: Getafe 1-1 Rayo Vallecano"
             },
             {
                 "cover": {
-                    "id": "8833828851294916896",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/a6c1d37ebbde3f978d0b78c7d6ac61df.jpg"
+                    "id": "7679415309409177824",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/65e66df2fe695c5262df4c164fbea936.jpg"
                 },
-                "createTime": "1792363959000",
-                "duration": "514",
-                "id": "6977266634155516496",
-                "path": "https://lacdn.aoneroom.com/highlight/2026/10/19/2f4836b63245cce6f9dc5feeeff10877.mp4?Expires=1793623813&Signature=zyh3cLkZvfOYJP1VYwxPA2Xr4uthqJcUtSHwB~Xq6-jSujuC7~x2d-92frz728~LmpFDVvLaHYmZU2MmPBJVQJoyV-kZsBNrNkyBahnQX7HLYWaL4uhW7vBPtORpv0z4Xltqs4pF0ibB0Vtql-8cDkmmx8wwHR1O5JHoxid50fMTI755Y5IYNfQOefGwzRqskXnNwHms1GWvtX4dfxNbnKFN8qjRiVCLW~oBOrrrb7vQ~xpT7sERv4rRDiSxd7yb1zZfzrSumPGLiG2W3H4CxdOoHlvLab9r5450Jd2t8-5oR1XF5VDIEaNCV7cL8AcNp53i1i~MqCwwXJpv7G5J5w__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": {
-                    "bizType": "_UnSBizType",
-                    "entityId": "0",
-                    "viewCount": "31"
-                },
-                "title": "Real Madrid vs Sevilla Full Match Replay 18 Oct 2026"
-            },
-            {
-                "cover": {
-                    "id": "8190230269732049184",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/a75a59504e4630a72d664922593c92c1.jpg"
-                },
-                "createTime": "1792360491000",
-                "duration": "331",
-                "id": "750283685315895888",
-                "path": "https://lacdn.aoneroom.com/highlight/2026/10/18/e609ea757f1430c3059e9e2dd5f02211.mp4?Expires=1793623813&Signature=Mwd8zA90KZDXRsH5RPGle9W8BHSFaX66dKbuXM7vFI98x1sA45lpoVB4SZ4oNye5n8J9S2u~naxhWNvbOcVOVSIqWah4btD8Vwg2hWIleBOG7ZwLyX9te7hmI0kTHS8wl3DbVswNOv7sgJxrXHiZyAT8DR-7usQuoLLYTbdMpMQa1FuVbhc8QAv1JMK4fAY0hfdNW8HMhITujRcNhu3tNKXcY-ZVA0zj2N7y-L9f94Vm9nS-75LlzYunU~YpA9eMp3gNfvY2FZXJPF9WibF3rFuYnr1wRDxxD4-ZKCmLMSViuRynpxCTqFwrdz4lPj~JHYPDCZBIzfmuJdEMEO6~2A__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": {
-                    "bizType": "_UnSBizType",
-                    "entityId": "0",
-                    "viewCount": "15"
-                },
-                "title": "Full Match Highlights"
-            },
-            {
-                "cover": {
-                    "id": "4969120796208682512",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/677b8d4f9dee35f0e3acffba148a6bac.jpg"
-                },
-                "createTime": "1792353315000",
-                "duration": "16",
-                "id": "2302989816805452248",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/1fafc3d162191f47327290c048139e55.mp4?Expires=1793623813&Signature=4jGq3hmbT5zpCTZouNWDLgXz5U1Ugq6F99GFlVsZxvfQE24ghH4ULWWvSgDDNPg2Xkzw4-0BPD~oLyuxXYacU3ghZ2-tui3LQngAILyoiSb3Kd0hQ-GqHXY5RjrplqUQOSY3tkWXgH6WcPXHxZKTtGjzg4UOy7zxYyEn4j2ACZmikPd7gCWjh6ZNKunp4QpqO2bfMjB-PbAuKv1gyTkSY4JZG8mYjM01F2aCcolZBOrCw04zI9LLQyqQbjidfWd0MIZVMx7-M~tJWFu1dGzCwd4jR6mJ-7zo0RpDix6zHXN5ExD8e8cTO560U0kAqmST3ElbsxigzruB7sWiiNoOrg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1792439693000",
+                "duration": "83",
+                "id": "4346751585155017176",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/10/19/7ae76df66c236af526084f0d96d28b5c.mp4?Expires=1793657669&Signature=uDBOKAsaRlpJQYYdAnLmICdNNiSGpfRG7LUHxK-N-rskLPy41rLUhnFOcmqRvsy77~YYHFSLN1kYTW4uwVC6UBqotKscPZLyRrbvbFaFcDBWYFCdKKCHjYyCYbfwKPEaaS0hxN94p70PMSGer5bykTHfna9afM9Ge8IoKncI1YVfjTNIFY~iOWa6E3KT9asFFp2IBBAWHhnQMOAD~GCOtewGnRGdKiL5uiXulNfXZPh81Q9MYdU96fObqlwNK2DZdkuv9B9AD6vtBCXgaW6290~ZibQf4ZlcT~YfvlzxHjkE76dmNxgyrQgz0OBbFm1vLzpKyLpKsrreOYp4cNVsxg__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "Aerial assault! Ure heads the ball, Courtois gathers it into his arms"
+                "title": "Taking the initiative away from home! De Frutos crosses, Alvaro Garcia taps in easily"
             },
             {
                 "cover": {
-                    "id": "8092367137790218528",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/f81d4156f36b4c3246916d9c5fd73b5d.jpg"
+                    "id": "9196459880763249040",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/028ca32a7a3b8cb459219c85819a96d1.jpg"
                 },
-                "createTime": "1792353319000",
-                "duration": "27",
-                "id": "8308539919904008664",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/a403b82223ee1193fef0ad8720c76e47.mp4?Expires=1793623813&Signature=sOsLs12aCIjyuoHeU8SE6cAe9zAe8~18tU2CjrrJrd6TDphVegyKzJw58fhvB6uPxdzy8WhVKbIvGQ6tR8u8WB-23Ahf3poEM~6vb0cBCSk83l05Lxsi4jRWkm4PyOJQP1OM4SxDj0JzwgR84PGyNeIQjOjjI39sqAI9m0lDdrUEPfuO44-p~QCMUYOTDORUM2AHwjFDjOne1t2Bqt~3Ivw5~8FDqCV5U-5cnaurNGbbQAR9pWVm1ktpQyI8O87qiI5p2nIR0npprr9xBpY4emGYO8KNjs4Du-rGATg7~EGWlWldmATqWNF1iozqoby3H-XJeOv3h~ZkTO~4mhvlzg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1792440590000",
+                "duration": "34",
+                "id": "2657233221821293136",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/10/19/33e81b4f19f8e06cb666d06247b75d8b.mp4?Expires=1793657669&Signature=qDUziBQkW1zhQve~ZWApbjlzUaqVZoB20T1pnbenWbhCjO8bIX~6hQFs-GfrFUNgUS4aAjvZ-9jbkk3Zf403uH1GHpjyqkPzRdIJOZOufYsNe2aniQTc6DcRHp0opCQSlxjeciGD8PIflraiat8HhFed4n-22lqgPHY81FS04FNKe6QUJJtPsnikeDrVVyx~q3~b7EY6z3wHnkK7ObQx4PmRYi5Cn6cPEeangGoymDQYW9oe2HSjXCQ40jOEhf81gumrzfCqjZ0bTGyaZEPocP8SeTpe4WMa5TYBKX5aAiYX2bDQ-4yDASIugcVgZxUqqeYd7HFk9tSR5e9GIr-~3A__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "Eager to score! Endrick takes a forced shot outside the box, ball collected by the goalkeeper"
+                "title": "[Highlights] Camejo creates space for a powerful shot, Soria makes a one-handed save with a stretched arm"
             },
             {
                 "cover": {
-                    "id": "8933414368201658656",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/e5cceef726fa60905e0fd915e4f8a2c6.jpg"
+                    "id": "2793097674642411744",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/83fcd5f809cb6ba7fdbe54bbedc1c886.jpg"
                 },
-                "createTime": "1792353296000",
-                "duration": "28",
-                "id": "8972820864941156824",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/c77a74745943599f9b396688408a112f.mp4?Expires=1793623813&Signature=qe5mkY9egkPOkaG52s2ArzUkzm6S6NucY4L1WA6xXxSMLL-qCcvM4maIyh7d6GXB5f9bUU5jFwgMd3UrZ~N1O~Va85LcKAbzFbSiHfZuonRoGgXiFw39CpJ030m8EuKGHEkfQaj~HGbdxdSZaIL-clTAFcuN-lCOqk-exe3~pYODo-c407je12g5AUNvUNlLwi5QAdQaLEVWXPk4ZR62NZHXiGZqlLFCrcPaqqISdyMEQQDUoGsf9AD2OrNMgvI6s06dvV3IpGNVsL~B9EG4ItD42YYNUh0KyaV8e4aTRhOUUbJ5PQUENb5qmvlymLcJrrTdvwPJ7CPzcTN-9f2ngg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1792441488000",
+                "duration": "45",
+                "id": "2099543332027261520",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/10/19/067f9135310668115cb1f2be48291d86.mp4?Expires=1793657669&Signature=FGeZUgPEX0O-swNHK3MdoMm8g-49kP3NeUJQnNJyxTZ-jVjavofdf7iOOeD6wS7NiMRTPV62TonvIpa0i0SXkztl4pEdWlLxbK96~2RTl43dQE9cC5lA2XlZLYMgnfO6jAg0Jtx~nPHpu~RHZllqYcG9tNDPOIr3HibLLb7TihhKzHFDubHl7ow72fvBWaoOpesuot3vOvzZs1-St9qYZpski2GVEHCs0UoborgSWo7U2TpluKaIsrD9GLbRaVo1wI081fMU69eJXmkfZEtSXIqKbOfa90WdTvMKaQRVe0S9QZPOjK6tqbeuKM~euIrcL8lNegQwvHMwh04krvafKg__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "A case of friendly fire! Mbappe's powerful shot hits Valverde's head and goes out of bounds - Qian Jiabin"
+                "title": "Unlucky in front of goal! Yılmaz's header is parried by the keeper and hits the post"
             },
             {
                 "cover": {
-                    "id": "6396937799945667952",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/403db2fe3f4c3521186a7d7ce5d473b2.jpg"
+                    "id": "8382064812209197592",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/a6b96e64daa74b523028764d6fddbbec.jpg"
                 },
-                "createTime": "1792354201000",
-                "duration": "71",
-                "id": "10833528334313944",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/b328cbf20007238c635aa01945ae710b.mp4?Expires=1793623813&Signature=no2lkE1CmZSdkoeJ27wm6bkWQcMuJNPIoKnHZzM-DNAVaCHdVy-12AGBgZ2nTWJtlmzB0w~xESU6kuSklAgdPYSK0y4~wn2eVWLvxM7mWdwA5r3Pu9nXtJvt5rDu19jWmdPlAnB64P47Dk3XHKp9xbgcZCD3URa7E3qBXjWFggPAEA8W~OOFo-JnR0UK5v5Sd5~7fmYW~4q3N32MiU1cytefyfMaJPAqCeDXo7ajx14wbXe9gKLQXrnC4JNzyHR7~U-MXvSpw39AanLRFuSAl0u8eSzqrFkDRzAY9vE7oqIH-Og-kmAgKZkaMYJf4rNXDacXFpo0IvRjf37F~3VDVQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1792441496000",
+                "duration": "87",
+                "id": "3806407590800779736",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/10/19/6e8c596140edd848d2c876ad79088657.mp4?Expires=1793657669&Signature=GjlAJmtgQ1zUCfptsCWHHp5xO4rooGCI4-Aj99hyMK85d6~nbHACwY3cosQf2~xlD3QUpyaS-pVgEwZiF8aLvl38Ov8jVTEgcWIyohgTL2E7gHk4xdBhA1Ql-KozZdpJZcrqNLdODECO72fNP33HqBW6UgWAMto3lU6TauczGA~6y1E8uGRxagfkmDXQScbe~OUnFdPgFF2DT3CwYQaC1e3cpKYV~3a81GhuGjxex8SmchwVSOFpMiKi303pgchOdCpsv-bXkw89pDs7HT51BMQvaH4NBhbu0OK9T-GHCpEnO0Kq6O6GccMkeqSvaYLCSKLLoj1Xj7oWkFEk34H0hw__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "[Goal] Stunning! Diomande's cut-back finds Güler, who fires a world-class strike"
+                "title": "Misfortune never comes alone! Dacunham sent off with red card for denying obvious goalscoring opportunity"
             },
             {
                 "cover": {
-                    "id": "5505225073726310264",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/cbe8b2a265353ff90deff2c07d4c5351.jpg"
+                    "id": "8890971570101966784",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/27e8b7387fb42016c3523ab0635cc535.jpg"
                 },
-                "createTime": "1792354205000",
-                "duration": "91",
-                "id": "4964793118441859544",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/6ae9d8dec20f6332554428d0d907ad3e.mp4?Expires=1793623813&Signature=IRgsEeld~RJz1oensN2T2I6TiONN2fS1u2lQKetFCWvwF8mLmzvUj98fEDFmKO0ZfheUIm-0xvq12XNvmWi6UxLOEG~VYS8K99JVtBe8aX~I4jjqG7U~I9s80WzuongQ17~zgX~CWcOQFfv~dY5Wzs0JwoL-RcDIcnmZOyXi-KeWWZACuxRXD732DEqleAJ9gd2qWKkFYiiUqenAmYk-dRKO2MRLRxqGA8lAzt6XUU9cNA~b1do56A9q374AhZpC3vbTyhVQRiN0mpm0vxElw3C7SB-Q1VYq5SUexUPuOeL3n7Oia5KF0jun-OjbHj13SyJYaOxx7Jhv5~w-NDv1JQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1792441492000",
+                "duration": "38",
+                "id": "2009471339479951832",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/10/19/b59488675bcfa9154b2ce2a5b26aef60.mp4?Expires=1793657669&Signature=zWnlld709QTHDCWWDj8~BUX0Q4x3LjF66DRrOuRtgiFeYSNnhacxIuJkMZaDkTbI8cUEZRTULQPLjUAAcHExl6nHz95KTzS9w3htRFUbjXqAOr6YzPMgi3YFOqDbPv2bQG2~hhAOWa3GAACh4ZUelDmMkVaLyO31P-q5xiT6aHik4BLxLFv8R-GtKN3JEGFNhcvzhDCjF6RwEBRnstAMSKrFaQGRguPmfmRjAGj7YOTc39GejiOrWkPNvMpTPK6csmRncHNDfVqjOV~T5jGtypCo-cJUq6SabnX03uJymFlcwe88flaKfsqLZ8xHrVKkZkSgM0HZLaNfjpAKhnpzqg__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "[Goal] Brilliant Skill! Mbappe's spin beats defender, solo run with a nutmeg finish"
+                "title": "The ball was crossed right to his throat! Camejo's open-goal tap flies over the stand"
             },
             {
                 "cover": {
-                    "id": "1483510606484362768",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/93782ac6af6aa0a6b9423bfe4eada994.jpg"
+                    "id": "6602967037537310656",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/10/19/47c2ce06ac6eb5186b7a120a15e253c9.jpg"
                 },
-                "createTime": "1792354209000",
-                "duration": "29",
-                "id": "8617212416239331800",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/150c4a05d72f792c1a8521f929b4a03c.mp4?Expires=1793623813&Signature=6GfCMWto6A1x5vTdr8WeTHZGpviuq8A2aN1WyzStqjjgDplJLqUUa9~vaFMKVuJn7IWkWGFeaR81LM2IH7ruS7PAYeHqFy1Isu0UtKXuVjMUjPbYPSVSuau4TVLiusYYjnYgSsalpKTDI2WRSAHOUEA4dSXGTyEGl1Wg12tmuz3nGqkVr0S4P~fRZXkhfEZJO2BQxiElDPDbzYjVTREJ8eatdQXvXICXijkgY8xNwsKzdK~2swV4wHAfk87RDt4TyRld~N3Ecm4GGzqrQxf9qbXiBNBZft1Kp6JZGTxu4sxV8snjeqLf9QQqpC7dN3Co~CyGAgBHaSSBV~3giUPsOA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "createTime": "1792443293000",
+                "duration": "96",
+                "id": "8602565272089913816",
+                "path": "https://lacdn.aoneroom.com/cuts/2026/10/19/b911bb6609bbf46fbedde048ed145cec.mp4?Expires=1793657669&Signature=CfNopUdUTXlqPpU8djNmyr~RsiiYOIFCtfc~nQrMXiZ1FlIuvfQcZ~qMyEQrmT789GLGaVAjv1bS0r00dMYZo~~I2BarH5gP14vMjS9YwQCoBBLaPgUJ6Fkdqu5R5trSyG6dqem83~RtKcbDIG4C~7ZHd-2SE4~wjpCKBW8eIICgOBgJXC3UGYvMXPJV~pIo9ksGylz9loQkl0AkKA7XBOR0vDzUyQD~SXmFo16WbCC0MjxuWI~0tg1JRV-pX~-11kgVHWbHY0EwXFd0RVq4fa60P4NmMIZpVk158fh0xoiDRGhDHlWjHHa1rY1KbsWxos2ROCIKU26fvtH6M3sCbA__&Key-Pair-Id=KMHN1LQ1HEUPL",
                 "stat": null,
-                "title": "[Highlights] Super speed! Mbappe drives forward with the ball at pace, low shot saved"
-            },
-            {
-                "cover": {
-                    "id": "7573193140317180192",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/b7a3750d82a4a80310fe4a2d8232e5ec.jpg"
-                },
-                "createTime": "1792356891000",
-                "duration": "33",
-                "id": "6816588402918842960",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/a3d1b5621d4fd771a2a37a737976ecee.mp4?Expires=1793623813&Signature=N3zm0f1UvrZFDcYUKIwQJUhqehsaWhX-~-SxQEaiMhXSEk2im5uH6esDwF-HZTsW~6Sw3AgkYNi0DDHeAfZUCvHb5rpHZo-nK3sSNj1BWDcxBlcVpJ95jkZWcILTePiNhdN3zAYbEJBpmfHT3h6nVkeeY4AQCprUNjopdwpj1uBi~Mzf2Ns4nYzddCh-5lVCn0GsI~uHR0au74mNV1WsIffnSZh2vYvTpsEEcauYulFSUIv8jNBd5TrVMO~NQIVGFvKPQODKVeyraCLJpIK4-WRp53MvHS6VmMorEYIxsqwGmHfAkHLM9UfVvRcerROprALrirHJs1CfHPhLnPswNA__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "Brute force! Ejike shakes off Cucurella, creates angle and blasts over the bar"
-            },
-            {
-                "cover": {
-                    "id": "4412000453437838864",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/071a3de2abe835cbec417a105fdfec15.jpg"
-                },
-                "createTime": "1792357798000",
-                "duration": "94",
-                "id": "2340344624847514072",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/e10d0ec2ab14cbdb9d4784f462d5bd4c.mp4?Expires=1793623813&Signature=urCzSl-XGQg-6VnP0x2bnJZKVV6vvnTvjKQiQD~-XbOyzVqAJH054v4j-j5H~0mJ367j595oUS5nEMStAOmJh4FUP0CBqmH01Z6tnpS--pbEZ5m3VjNP4jU33i9GF79lAhzVAPeIRBiT7AjFzsiArsOe3l-B4Tu3lEU~JJoBz9z-S5UvWmgd0-qFGd9KjGucvaDkBi8rAKqkPrLzLTQN38aEuYkU1M1VKv48CVTiWDQ4RSyNEIE8nnvHOTmk5zbivKf~rp4fLdaxPnwA-ByifMn4LgETN6sIuOzU5c7FO8VFTgC9mJoX4DBqOtpMeGs2ZuMbqqqvNUKjsaWoNBajsQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Goal] Unstoppable! Mbappe beats defender with pace to win foul, then scores with a panenka penalty"
-            },
-            {
-                "cover": {
-                    "id": "7826854870891614496",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/07033869d2ab6cb2334058bcc72ae797.jpg"
-                },
-                "createTime": "1792357834000",
-                "duration": "30",
-                "id": "2332463325499615704",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/b9a78cc6be2e566c076612af97d6f25d.mp4?Expires=1793623813&Signature=XBnzIRqGNId60Vm3Hxk-Qw28-HpYjsZBRlLkV4BuZNhgQKo9Dhl7KzG75nval19Ju8SyvkHYgwd0dr~WIy~aluT6WOSY7h6DNy~kCF74oigpdEZxEen2Adt91ZPcWFRxUCsI8iGSny5gHrVwZGtyzro6d1ZP3j-TSU~2KeBA5rTh4TcGLIcPSAOq1agezhgx2-FncLDepZojRDnko68nieRfyYFR~bjtjNgsbWG0veWUa5affjVH3xngOe3-ygMw2XtDnZU4JJUUdUUyZFF1RJKniZPLBka4HWHUouRbMW92Ov6QuuuskM2f7Q1eOfHsK0ZE-Xq0fkXt6e~Ee5F1yw__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Highlights] Clever play! Sevilla's free-kick move leads to Bueno's open chance, shot just wide"
-            },
-            {
-                "cover": {
-                    "id": "8903954053646931472",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/051aa5a01e8099fa691aec25da079c50.jpg"
-                },
-                "createTime": "1792358839000",
-                "duration": "58",
-                "id": "5535261532373903832",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/dad1ac547f1bc1dc20a3f5d2b230dd6d.mp4?Expires=1793623813&Signature=J2AKnFhLYApSN6KKRM79N2P0h1UxlYraM0w3eM~o84kP4~ehEVVjbBB1Hki43qmFlo670PQ8ilV7loGBN~oNtgXbBMFdTkRhOqR5VvNSnAdIPpywewtSRQBjszVUd2I5Ar47xsVL9JQjqTrWnPEJB5xFkq5J5D2EEkbe2ISATJHuOB6cWIt0uWZ4~yOWwmoWp4HyzPmgqY5zJQ6Xq93ccFix8y12A9LlvPMu-SBbXRdFnl~nRfhNGLUpzfb3kX9PiwkF8mK2KSwJTD2khVwlDhzdNG8NSrugPlnfwL8fAiyPjLBwr8G8T95fEUSVMYR~OyW4p6GqtYGMcX5P2viBrw__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Goal] Unstoppable! Diomande's solo run down the left and thunderous strike secures back-to-back goals"
-            },
-            {
-                "cover": {
-                    "id": "1540568662896267552",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/7f5a62de5ba224fe3cb5712b310270b3.jpg"
-                },
-                "createTime": "1792358834000",
-                "duration": "46",
-                "id": "4458901221432255056",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/3ffb04965b3b94964dbf847bd4846d4c.mp4?Expires=1793623813&Signature=XrYf6aPb~SbKgGKBd9adoI4EoJfO1Kl5~T9HqcD~06RZ3ZoJ0oKeSkGJ4zkYAwRRa1wcnGAp05pykB80~euZFEPK3~ZfG17tBLqiqb6boly-2LCUTyhuLZkeag0Dc~zZzJ5I6DfmR6Ipwxb4daTVqjGOSKvuttsgn~UAJ7KUk7h3cX4V0uq60W6uehpvcS5yupoyPh-S0wo-Ek5lHhXdQCQXKMCFgTMQqWwEx7bP4AvduKtNBEn~Cp8PrWtTUsRpCxazHUy~2laR-hKLvA~ELTRW9B3ytUjokHyuKd3dacc6ggpGQi4GoZZ1p-SJ-J9BIH9KebbQIPG-XJpws2LCHw__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Goal] Pull one back! Bueno cuts inside and fires a low shot into the far corner of the post"
-            },
-            {
-                "cover": {
-                    "id": "3652756888133027704",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/134095bc33395896f428eaf3b70f2d34.jpg"
-                },
-                "createTime": "1792358843000",
-                "duration": "29",
-                "id": "4931779182306257368",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/0440fcd4a3e33b9d5e12c4b680c41598.mp4?Expires=1793623813&Signature=2bRojGuBdLgVouEJUxC0AJzkcgnWzLoxte3oIYuyY0jN8LNYaxx26uh11RMwvm0LHfAhoq81ngMoxuZ~TCvl5-ArPxjqo5mZ7tdJunqCrOK9yu2Vw3muV8-iIcs4qGIBegeJ-nlC8JxPm0CE2FdZ8I0vrNz8rcynsOVP9zeA9g67gNhtCMhvphpjy44zZ7sJjvqSCsjBjMBdWV26VLpVMGAQExJHKyCR8zVxkOzC~Xiv1QFxb0yXHbTOYGoHE1SYJBkIfmMWso8RTx0~2uUhAtZtcZV5hCfwDRCXrR2AAJ9xQxgqvk02ZrDPlGOitJhoE7ovjBLa3zCm9iVxgJjbcA__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "[Highlights] Finally here! Militao returns from serious injury, Bernabeu erupts in applause"
-            },
-            {
-                "cover": {
-                    "id": "3875685069687867256",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/10/18/efa25c26378ceac4fbd0338cb7cd4fd7.jpg"
-                },
-                "createTime": "1792358851000",
-                "duration": "24",
-                "id": "7937931933576063448",
-                "path": "https://lacdn.aoneroom.com/cuts/2026/10/18/f4b5be894a04ac91462f595dc0428f3c.mp4?Expires=1793623813&Signature=ccEk~jPRdfdUI1FI3V~H7qMjxOHjuTD9rPfArwPJCOewXjhJX6YB5tQYKtqzUvRlUCmXbvbKSuOw~rV3Okigx-BktFCOBZdqlAF~QRJYN1RnerDGRO-mkzkFiOGIuHm8rQ5faJU-xlElhxZx5XeVOpR~VziK55~H2zAxH0qjfqQujThUWXehF4GM9P-b~eSXISAmr0gmOP2dn~WkuZWc4-9HRCk79mT17Ee1rU7VqNcZcHUQrnaksjE35kwoejTzP8~3MeJbYwrt3YoUy8FyyRvOzsqNT~dElZkdIDzlM0TuMGlU1ZsMDtmME89zYXwDbcNHB3qbG3XdVbGRodWBfQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": null,
-                "title": "Boom! Tchouameni's thunderous volley parried by Vlachodimos with a diving save"
+                "title": "45-degree cross! Satriano scores with a close-range volley in the box"
             }
         ]
     }
