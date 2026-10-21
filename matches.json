@@ -1,37 +1,5 @@
 [
     {
-        "match": "New York Knicks vs Philadelphia 76ers",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/hotel/philadelphia-76ers-vs-new-york-knicks-nba-1792531800/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-philadelphia-76-ers-vs-new-york-knicks/1",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/golf/2410/1",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "San Antonio Spurs vs Oklahoma City Thunder",
         "sources": [
             {
@@ -39,7 +7,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://tv.cctv.com/live/cctv5/",
+                "path": "https://www.yangshipin.cn/tv/home?pid=600001818",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -48,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://www.yangshipin.cn/tv/home?pid=600001818",
+                "path": "http://sports.cctv.com/H5/CCTV5/index.shtml",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -57,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://sports.cctv.com/H5/CCTV5/index.shtml",
+                "path": "http://tv.cctv.com/live/cctv5/",
                 "stat": null,
                 "title": "Channel 3"
             }
