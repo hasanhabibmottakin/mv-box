@@ -1,13 +1,13 @@
 [
     {
-        "match": "San Antonio Spurs vs Oklahoma City Thunder",
+        "match": "Real Betis vs Feyenoord",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://sports.cctv.com/H5/CCTV5/index.shtml",
+                "path": "http://play.sportsteam368.com/play/wen/?id=99d6cdd925c7102f02f4d792a46fbf13&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://tv.cctv.com/live/cctv5/",
+                "path": "http://play.sportsteam368.com/play/pao/?id=46284021&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,94 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://www.yangshipin.cn/tv/home?pid=600001818",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Lille vs Galatasaray",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=9bdd05274eb9f77aa3a17ec29d78bf6c&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=a1415c1a1635d542c72ad91378a43833&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46284501&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Como 1907 vs Manchester United",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-como-vs-manchester-united/1",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/golf/2400/3",
-                "stat": null,
-                "title": "Channel 2"
-            }
-        ]
-    },
-    {
-        "match": "Levante vs Athletic Club",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00586177&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https://www.rtmpcdn.com/live/migu2.m3u8",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=0e478dc80710f48596b0938b3fdd7a34&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
