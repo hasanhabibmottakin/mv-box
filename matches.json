@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "match": "Oklahoma City Thunder vs Denver Nuggets",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/admin/ppv-denver-nuggets-vs-oklahoma-city-thunder/1",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://embed.st/embed/golf/2479/1",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/vl/?id=vl&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    }
+]
