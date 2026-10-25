@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Denver Nuggets vs New Orleans Pelicans - Channel 1
-https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/3
-#EXTINF:-1, Denver Nuggets vs New Orleans Pelicans - Channel 2
-https://embed.st/embed/golf/2569/1
-#EXTINF:-1, Denver Nuggets vs New Orleans Pelicans - Channel 3
-https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/1
 #EXTINF:-1, Phoenix Suns vs Golden State Warriors - Channel 1
-https://www.yangshipin.cn/tv/home?pid=600001818
-#EXTINF:-1, Phoenix Suns vs Golden State Warriors - Channel 2
-http://sports.cctv.com/H5/CCTV5/index.shtml
-#EXTINF:-1, Phoenix Suns vs Golden State Warriors - Channel 3
 http://tv.cctv.com/live/cctv5/
+#EXTINF:-1, Phoenix Suns vs Golden State Warriors - Channel 2
+https://www.yangshipin.cn/tv/home?pid=600001818
+#EXTINF:-1, Phoenix Suns vs Golden State Warriors - Channel 3
+http://sports.cctv.com/H5/CCTV5/index.shtml

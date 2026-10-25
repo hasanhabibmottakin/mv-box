@@ -1,37 +1,5 @@
 [
     {
-        "match": "Denver Nuggets vs New Orleans Pelicans",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/3",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/golf/2569/1",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-denver-nuggets/1",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "Phoenix Suns vs Golden State Warriors",
         "sources": [
             {
@@ -39,7 +7,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://www.yangshipin.cn/tv/home?pid=600001818",
+                "path": "http://tv.cctv.com/live/cctv5/",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -48,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://sports.cctv.com/H5/CCTV5/index.shtml",
+                "path": "https://www.yangshipin.cn/tv/home?pid=600001818",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -57,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://tv.cctv.com/live/cctv5/",
+                "path": "http://sports.cctv.com/H5/CCTV5/index.shtml",
                 "stat": null,
                 "title": "Channel 3"
             }
