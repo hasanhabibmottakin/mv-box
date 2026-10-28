@@ -1,37 +1,5 @@
 [
     {
-        "match": "San Antonio Spurs vs Sacramento Kings",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600130&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600130&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588301&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "LA Lakers vs Portland Trail Blazers",
         "sources": [
             {
@@ -39,7 +7,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600131&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600131&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -48,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600131&id2=",
+                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600131&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
