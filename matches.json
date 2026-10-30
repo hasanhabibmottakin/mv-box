@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "match": "Portland Trail Blazers vs Memphis Grizzlies",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600146&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600146&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/vl/?id=vl&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    }
+]
