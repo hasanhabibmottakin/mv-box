@@ -1,13 +1,13 @@
 [
     {
-        "match": "LA Lakers vs Toronto Raptors",
+        "match": "Les Los Angeles Lakers vs Toronto Raptors",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600157&id2=",
+                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600157&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588329&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600157&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600157&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588329&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
