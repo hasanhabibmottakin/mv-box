@@ -1,13 +1,13 @@
 [
     {
-        "match": "Deportivo La Corogne vs Osasuna",
+        "match": "LA Lakers vs Miami Heat",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00586334&id2=",
+                "path": "http://play.sportsteam368.com/play/txf/?id=10022600172&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=60b215b456d3050650d77c595fa996e5&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588342&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,39 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=f97d4facba7ac22ebd5d4f7fd8dcf25d&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Cleveland Cavaliers vs Oklahoma City Thunder",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600158&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588330&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600158&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600172&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
