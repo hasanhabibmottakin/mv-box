@@ -1,13 +1,13 @@
 [
     {
-        "match": "Borussia Dortmund vs Real Betis",
+        "match": "Sacramento Kings vs LA Lakers",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=9bdd05274eb9f77aa3a17ec29d78bf6c&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600185&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=2855be9e6ce22a6aa4860d293ba72779&id2=",
+                "path": "http://play.sportsteam368.com/play/txf/?id=10022600185&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,39 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=1bf2b8d9f1570c3a518c5ff14886b703&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588357&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "LA Clippers vs Miami Heat",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/vxt/?id=10022600186&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600186&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588358&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
