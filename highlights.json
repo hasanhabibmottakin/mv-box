@@ -1,22 +1,18 @@
 [
     {
-        "match": "Golden State Warriors vs Miami Heat",
+        "match": "Dallas Mavericks vs Utah Jazz",
         "sources": [
             {
                 "cover": {
-                    "id": "5617383076599841472",
-                    "url": "https://pbcdn.aoneroom.com/image/2026/11/06/3a2b1904397ff108d1d031b1d7a0df0c.jpg"
+                    "id": "387535128362480456",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/11/07/7a9c447e5accb9fc6ea6b5c1ebaa10d0.jpg"
                 },
-                "createTime": "1793985000000",
-                "duration": "633",
-                "id": "2777863511542751824",
-                "path": "https://lacdn.aoneroom.com/highlight/2026/11/06/e4866db116c1c95213e3815c15a09070.mp4?Expires=1795201989&Signature=rRvAeV6~tlEkvB~hnHFAAH-~03zNiKb3CANVjKr3a8~QHO83QM9OiTitqz7T1-la0jFbSNiqW4JrntBgRCXKrApxoI07XkqO75~GFuzvpwY347WG81UxfK7JXJe12Iag2cLsOc1ImW9QDapL9QEJPXE~fGbVXa8bzgpJXyBaAAisqQmBnGby70iZdmr9aFmdq8lAc-AQnJw5iayHK8cMm8M2o17bTkYKpqQ3OHACMnNgiGbG3Mi8tWV4NcV7hqSF0AavVN13g1Sj0Ej-U7vey7SU0aMC~NMMcmfAsa5c8guYLa8YmqD3HlufygXoypaZagMQw~xFdjq5A4S3p6Cxww__&Key-Pair-Id=KMHN1LQ1HEUPL",
-                "stat": {
-                    "bizType": "_UnSBizType",
-                    "entityId": "0",
-                    "viewCount": "11"
-                },
-                "title": "Golden State Warriors vs Miami Heat Full Game Highlights - November 5, 2026 | NBA Season"
+                "createTime": "1794028201000",
+                "duration": "601",
+                "id": "1806169010984084048",
+                "path": "https://lacdn.aoneroom.com/highlight/2026/11/07/49f195ec1ee81fc8d946fbcb57779e26.mp4?Expires=1795239621&Signature=sY-MzbeASAh5oQ~5ly55-N3RNQzmP~iY6uj1IfNec9ekFT~0ctATv6uM7KOD9Zluse8rsqYwf~7~YGO2Xrzp4yxqQ2iFjYUVOghk2IFkN4QuTocaeSEhN5RGWLG2U-YmuBaR5nWX1yTrRiP1W9sziqn~9-CfdtCTLbm3p14D9PMbg4P7htRK84cB6QUiup0YFQcIYTjAaw5uQaAyp4tTlHo7jHIjo6t8DsINnKx6asxpeYYPeJY8FVnrE0Uez4Q8ZrP2AHAjcoQubnVIRYkMITiaOj3-XciIn7gtYhE4Fq6tI4UdA65bm2l3ifjPH1lFZ-tnmAqP30ZZmNPEw2NmmA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "Dallas Mavericks vs Utah Jazz Full Game Highlights - November 6, 2026 | Emirates NBA Cup"
             }
         ]
     }
