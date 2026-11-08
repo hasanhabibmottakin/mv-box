@@ -1,13 +1,13 @@
 [
     {
-        "match": "Portland Trail Blazers vs San Antonio Spurs",
+        "match": "Lens vs Marseille",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588367&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584451&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/txf/?id=10022600195&id2=",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,46 +25,14 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600195&id2=",
+                "path": "http://play.sportsteam368.com/play/wen/?id=a10586b9c00b7179d18610586c13c81a&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
         ]
     },
     {
-        "match": "Napoli vs Lazio",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fmigu1.m3u8",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584796&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=7bf3baaebde4710a9cb050952174fcc5&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Elche vs Real Betis",
+        "match": "Atletico Madrid vs Barcelona",
         "sources": [
             {
                 "cover": null,
@@ -80,7 +48,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00586130&id2=",
+                "path": "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fmigu4.m3u8",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -89,7 +57,39 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fmigu2.m3u8",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=386ad40abcb07e5094eadab217222ce5&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Chicago Bulls vs Philadelphia 76ers",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=39316382&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600196&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588368&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
