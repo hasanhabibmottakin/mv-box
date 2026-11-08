@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "match": "Portland Trail Blazers vs San Antonio Spurs",
+        "sources": [
+            {
+                "cover": {
+                    "id": "5109527726701146952",
+                    "url": "https://pbcdn.aoneroom.com/image/2026/11/08/0c21d50ebe4753e81a9a4c4672061acb.jpg"
+                },
+                "createTime": "1794141603000",
+                "duration": "895",
+                "id": "7915270294552963232",
+                "path": "https://lacdn.aoneroom.com/replay/2026/11/08/8cb09a29136e31b0f714cbc769181746.mp4?Expires=1795352899&Signature=Mf2wZ3Hi-ptAjhNiktZm8MKyKLzIq8no2H8Gj5tMV9uaWs4QZojG7Y8XugIScNtlP5jaQTNuEuGGRjER-c1PKujbeHbrDLHqrlgP-pzEB6EoQMumCm-V3hRTtrxHWMWMjWjBxVbZLomoY9hSVQx9oJeSsDYhAWjMcnK50daftjz4sTCKv9fg-xpr~1wWTaWjzscz4oIAK9p6y8ktxsfuCw5jC0pCoEttPSWzXPCBoeVacUUlnlcVSrCsMCHlrO3FQQDEPRA3AHTCmz3UoCeCj-l1rJE8mZdOR3nod9WTqemEcLhOm8Y7deHjKMYJzUpnVFk9Ic3972ribjXdpSRzxA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+                "stat": null,
+                "title": "San Antonio Spurs vs Portland Trail Blazers - NBA - Full Game Replay - November 7, 2026"
+            }
+        ]
+    }
+]
