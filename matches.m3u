@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1, Sacramento Kings vs Orlando Magic - Channel 1
-http://play.sportsteam368.com/play/kbs/?id=10022600215&id2=
-#EXTINF:-1, Sacramento Kings vs Orlando Magic - Channel 2
-http://play.sportsteam368.com/play/mgxl/?id=00588387&id2=
-#EXTINF:-1, Sacramento Kings vs Orlando Magic - Channel 3
-http://play.sportsteam368.com/play/pao/?id=39316572&id2=
 #EXTINF:-1, Portland Trail Blazers vs Oklahoma City Thunder - Channel 1
-http://play.sportsteam368.com/play/mgxl/?id=00588388&id2=
-#EXTINF:-1, Portland Trail Blazers vs Oklahoma City Thunder - Channel 2
-http://play.sportsteam368.com/play/vl/?id=vl&id2=
-#EXTINF:-1, Portland Trail Blazers vs Oklahoma City Thunder - Channel 3
 http://play.sportsteam368.com/play/kbs/?id=10022600216&id2=
+#EXTINF:-1, Portland Trail Blazers vs Oklahoma City Thunder - Channel 2
+http://play.sportsteam368.com/play/mgxl/?id=00588388&id2=
+#EXTINF:-1, Portland Trail Blazers vs Oklahoma City Thunder - Channel 3
+http://play.sportsteam368.com/play/vl/?id=vl&id2=
+#EXTINF:-1, Indiana Pacers vs Washington Wizards - Channel 1
+http://play.sportsteam368.com/play/pao/?id=39316592&id2=
+#EXTINF:-1, Indiana Pacers vs Washington Wizards - Channel 2
+http://play.sportsteam368.com/play/kbs/?id=10022600217&id2=
+#EXTINF:-1, Indiana Pacers vs Washington Wizards - Channel 3
+http://play.sportsteam368.com/play/mgxl/?id=00588391&id2=
+#EXTINF:-1, New York Knicks vs Cleveland Cavaliers - Channel 1
+http://play.sportsteam368.com/play/kbs/?id=10022600218&id2=
+#EXTINF:-1, New York Knicks vs Cleveland Cavaliers - Channel 2
+http://play.sportsteam368.com/play/vl/?id=vl&id2=
+#EXTINF:-1, New York Knicks vs Cleveland Cavaliers - Channel 3
+http://play.sportsteam368.com/play/mgxl/?id=00588389&id2=
+#EXTINF:-1, Toronto Raptors vs Boston Celtics - Channel 1
+http://play.sportsteam368.com/play/txf/?id=10022600219&id2=
+#EXTINF:-1, Toronto Raptors vs Boston Celtics - Channel 2
+http://play.sportsteam368.com/play/mgxl/?id=00588390&id2=
+#EXTINF:-1, Toronto Raptors vs Boston Celtics - Channel 3
+http://play.sportsteam368.com/play/kbs/?id=10022600219&id2=
