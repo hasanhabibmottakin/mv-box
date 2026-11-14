@@ -1,37 +1,5 @@
 [
     {
-        "match": "Sacramento Kings vs Portland Trail Blazers",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600041&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00590163&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/txf/?id=10022600041&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
         "match": "LA Clippers vs Oklahoma City Thunder",
         "sources": [
             {
@@ -39,7 +7,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600042&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00590164&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -48,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00590164&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600042&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
