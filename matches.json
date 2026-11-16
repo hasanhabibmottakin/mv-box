@@ -1,13 +1,13 @@
 [
     {
-        "match": "Philadelphia 76ers vs Indiana Pacers",
+        "match": "Sacramento Kings vs Oklahoma City Thunder",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600236&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600244&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588408&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588416&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=39316782&id2=",
+                "path": "http://play.sportsteam368.com/play/txf/?id=10022600244&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
