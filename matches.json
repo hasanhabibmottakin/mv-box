@@ -1,13 +1,13 @@
 [
     {
-        "match": "Les Los Angeles Lakers vs Utah Jazz",
+        "match": "San Antonio Spurs vs LA Clippers",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/txf/?id=10022600268&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588443&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588441&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600273&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600268&id2=",
+                "path": "http://play.sportsteam368.com/play/pao/?id=39317152&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
