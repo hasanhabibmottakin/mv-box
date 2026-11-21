@@ -1,13 +1,13 @@
 [
     {
-        "match": "LA Lakers vs Sacramento Kings",
+        "match": "Parma vs AS Roma",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600051&id2=",
+                "path": "http://play.sportsteam368.com/play/wen/?id=be2523f42ccbc979a3b56cd8b0ec027d&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00590172&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584783&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,135 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/vl/?id=vl&id2=",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=5f17fed4e9a297013fbd001449e3aeef&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Sevilla vs Real Betis",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=323944f0a5bdad4533f70186b5248331&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fmigu3.m3u8",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00586117&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Newcastle United vs Arsenal",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00584174&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=e51652cc7356ebad904bd863a7730023&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https%3A%2F%2Fwww.rtmpcdn.com%2Flive%2Fmigu2.m3u8",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Schalke 04 vs VfB Stuttgart",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "https://play.88player.top/m3u8.html?url=https://spqncdnct.inter.71edge.com/tslive/l1/c65_ssports_20261117_qyciitzw_720p_chst1_ts_t4/eArmeDDyCiwXXcHVTBoPslLMBQbWmOULEG2OWijFLwz5CnBH0Y64YQF4UaQ1_McSQneXndGivPZKkAjAF_HWumHITLh9d5RAFhAl8x_TEaNFRrsQTfxmphWUJzZqOnM2dZGK3Ao7UOwVXxvEbEbBc-crM73JjKyuIjfZKC3UItKhGFBDbSy4W86hSGAWoN04BcMrGWPJn5SZYQBKTvJRTUkhdC0FCTKW0n-ju_Z2U2KqRngVa61ZEecAASWKUPwMmCNqgutY4E-ytpqlpk3ydA/1d1bd0452097361a8973fbef1fb78f05e/c65_ssports_20261117_qyciitzw_720p_chst1_ts_t4.m3u8?key=0b75c099e55882f45f66dda4930253c6b&dis_t=1795263537&uuid=0e760c5f-1a1fe0ba00a-454&qdpv=3&qd_bid=4&qd_sft=0&mss=1&pv=0.1&cpt=0&uid=f7cf9sonzo&random=1795263550",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588140&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/wlive/?id=8b977a8eb300dec0a32080a1ddc1c81f&id2=",
+                "stat": null,
+                "title": "Channel 3"
+            }
+        ]
+    },
+    {
+        "match": "Philadelphia 76ers vs Milwaukee Bucks",
+        "sources": [
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588446&id2=",
+                "stat": null,
+                "title": "Channel 1"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600274&id2=",
+                "stat": null,
+                "title": "Channel 2"
+            },
+            {
+                "cover": null,
+                "createTime": "0",
+                "duration": "0",
+                "id": "0",
+                "path": "http://play.sportsteam368.com/play/pao/?id=39317162&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
