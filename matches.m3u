@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1, San Antonio Spurs vs les Clippers de Los Angeles - Channel 1
-https://fernfiber.s3.ca-central-1.amazonaws.com/spurs.m3u8
-#EXTINF:-1, Bayern Munich vs FC Cologne - Channel 1
-http://play.sportsteam368.com/play/wlive/?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=
-#EXTINF:-1, Bayern Munich vs FC Cologne - Channel 2
-http://play.sportsteam368.com/play/wlive/?id=386ad40abcb07e5094eadab217222ce5&id2=
-#EXTINF:-1, Bayern Munich vs FC Cologne - Channel 3
-http://play.sportsteam368.com/play/mgxl/?id=00588147&id2=
-#EXTINF:-1, Troyes vs Le Havre - Channel 1
-http://play.sportsteam368.com/play/mgxl/?id=00585113&id2=
-#EXTINF:-1, Troyes vs Le Havre - Channel 2
-http://play.sportsteam368.com/play/wen/?id=2a85627ecefd10b3f3d8e621b1dc3afc&id2=
-#EXTINF:-1, Troyes vs Le Havre - Channel 3
-http://play.sportsteam368.com/play/wlive/?id=819c387dac2a7f04721ade0832979b93&id2=
+#EXTINF:-1, LA Lakers vs Sacramento Kings - Channel 1
+http://play.sportsteam368.com/play/kbs/?id=10022600051&id2=
+#EXTINF:-1, LA Lakers vs Sacramento Kings - Channel 2
+http://play.sportsteam368.com/play/mgxl/?id=00590172&id2=
+#EXTINF:-1, LA Lakers vs Sacramento Kings - Channel 3
+http://play.sportsteam368.com/play/vl/?id=vl&id2=

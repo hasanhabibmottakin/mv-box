@@ -1,27 +1,13 @@
 [
     {
-        "match": "San Antonio Spurs vs les Clippers de Los Angeles",
+        "match": "LA Lakers vs Sacramento Kings",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "https://fernfiber.s3.ca-central-1.amazonaws.com/spurs.m3u8",
-                "stat": null,
-                "title": "Channel 1"
-            }
-        ]
-    },
-    {
-        "match": "Bayern Munich vs FC Cologne",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=0fe35cf26051f3bbfbc3605a4a51c02c&id2=",
+                "path": "http://play.sportsteam368.com/play/kbs/?id=10022600051&id2=",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -30,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=386ad40abcb07e5094eadab217222ce5&id2=",
+                "path": "http://play.sportsteam368.com/play/mgxl/?id=00590172&id2=",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -39,39 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00588147&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Troyes vs Le Havre",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/mgxl/?id=00585113&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=2a85627ecefd10b3f3d8e621b1dc3afc&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=819c387dac2a7f04721ade0832979b93&id2=",
+                "path": "http://play.sportsteam368.com/play/vl/?id=vl&id2=",
                 "stat": null,
                 "title": "Channel 3"
             }
