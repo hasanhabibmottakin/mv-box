@@ -1,13 +1,13 @@
 [
     {
-        "match": "Como 1907 vs AEK Athens",
+        "match": "Denver Nuggets vs Dallas Mavericks",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=323944f0a5bdad4533f70186b5248331&id2=",
+                "path": "http://tv.cctv.com/live/cctv5/",
                 "stat": null,
                 "title": "Channel 1"
             },
@@ -16,7 +16,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46284151&id2=",
+                "path": "https://www.yangshipin.cn/tv/home?pid=600001818",
                 "stat": null,
                 "title": "Channel 2"
             },
@@ -25,7 +25,7 @@
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=66669e219d4b4906eec352ae64ebbfab&id2=",
+                "path": "http://sports.cctv.com/H5/CCTV5/index.shtml",
                 "stat": null,
                 "title": "Channel 3"
             }
