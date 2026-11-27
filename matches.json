@@ -1,97 +1,15 @@
 [
     {
-        "match": "Union St.Gilloise vs Lech Poznan",
+        "match": "São Paulo vs Remo",
         "sources": [
             {
                 "cover": null,
                 "createTime": "0",
                 "duration": "0",
                 "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=2227754c8705a941b2d4922e15666b45&id2=",
+                "path": "https://live3.winpowerdata.com.cn/test/sd-1-4465921.m3u8?txSecret=5599d4d283464b1118e7af3a2a8be63e&txTime=6B092A7E",
                 "stat": null,
                 "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46306541&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=0e478dc80710f48596b0938b3fdd7a34&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Juventus vs Omonia Nicosia",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=8b977a8eb300dec0a32080a1ddc1c81f&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=f5b1f4b7d2929d302fffa131ab2a1a0e&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=72419a145c97f541a4d223fb702254dc&id2=",
-                "stat": null,
-                "title": "Channel 3"
-            }
-        ]
-    },
-    {
-        "match": "Crystal Palace vs Real Sociedad",
-        "sources": [
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wlive/?id=e51652cc7356ebad904bd863a7730023&id2=",
-                "stat": null,
-                "title": "Channel 1"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/wen/?id=fe184ee9a8abcbfb0332ad6f061b5a58&id2=",
-                "stat": null,
-                "title": "Channel 2"
-            },
-            {
-                "cover": null,
-                "createTime": "0",
-                "duration": "0",
-                "id": "0",
-                "path": "http://play.sportsteam368.com/play/pao/?id=46305401&id2=",
-                "stat": null,
-                "title": "Channel 3"
             }
         ]
     }
